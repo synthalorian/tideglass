@@ -1,0 +1,9 @@
+[
+  {"time": "2026-11-11T04:00:00Z", "height_ft": 4.9, "kind": "H"},
+  {"time": "2026-11-10T09:12:00Z", "height_ft": 0.2, "kind": "L"},
+  {"time": "2026-11-10T21:30:00Z", "height_ft": 0.4, "kind": "L"},
+  {"time": "2026-11-10T03:00:00Z", "height_ft": 5.0, "kind": "H"},
+  {"time": "2026-11-10T15:00:00Z", "height_ft": 4.2, "kind": "H"},
+  {"time": "2026-11-11T10:00:00Z", "height_ft": 0.1, "kind": "L"},
+  {"time": "2026-11-10T12:00:00Z", "height_ft": 2.2, "kind": "H"}
+]
